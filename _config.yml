@@ -1,4 +1,3 @@
 markdown: redcarpet
-baseurl: /ukrainian-vytynanka/
- exclude: ['README.md']
- 
+baseurl: /ukrainian-vytynanka
+exclude: ['README.md']

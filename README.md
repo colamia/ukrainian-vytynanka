@@ -1,2 +1,2 @@
-# ukrainian-vytynanka-2
+# ukrainian-vytynanka
 Webpage about traditional Ukrainian Folk art
